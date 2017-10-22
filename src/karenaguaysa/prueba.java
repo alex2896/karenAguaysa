@@ -6,10 +6,8 @@ package karenaguaysa;
 
 /**
  *
- * @author user
+ * @author Admin
  */
-public class karen {
-    public static void main(String[] args) {
-        System.out.println("Hola Karen....");
-    }
+public class prueba {
+    
 }
