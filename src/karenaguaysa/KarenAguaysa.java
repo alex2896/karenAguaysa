@@ -15,5 +15,7 @@ public class KarenAguaysa {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("a dormir :´v");
+        System.out.println("TENIA QUE SER LA KAREN DEL 8");
     }
 }
