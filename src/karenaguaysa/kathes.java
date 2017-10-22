@@ -10,5 +10,9 @@ package karenaguaysa;
  */
 public class kathes {
     
-    
+        public static void main(String[] args) {
+        // TODO code application logic here
+        System.out.println(" sksk");
+        
+    }
 }
