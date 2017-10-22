@@ -9,5 +9,7 @@ package karenaguaysa;
  * @author fredy
  */
 public class Alexis {
-    
+    public static void main(String[] args) {
+        System.out.println("Alexis");
+    }
 }
