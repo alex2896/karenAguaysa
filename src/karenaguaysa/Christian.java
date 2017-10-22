@@ -11,7 +11,7 @@ package karenaguaysa;
 public class Christian {
     public static void main(String[] args) {
         System.out.println("Hooola amigos :D");
-        System.out.println("Chaito");
+        System.out.println("ChaitoHol");
     }
     
 }
