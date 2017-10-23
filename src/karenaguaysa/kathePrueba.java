@@ -9,5 +9,8 @@ package karenaguaysa;
  * @author Admin
  */
 public class kathePrueba {
+    public static void main(String[] args) {
+        System.out.println("Hola Katy");
+    }
     
 }
